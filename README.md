@@ -1,7 +1,4 @@
 <!-- 🌌 3D Cyber Banner -->
-<div align="center">
-  <img src="./yb_intro.gif" width="100%" alt="Animated introduction banner"/>
-</div>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Youssef Bahloul
@@ -52,9 +49,9 @@ $ fun_fact
 <table>
   <tr>
     <td width="50%" align="center" style="border:2px solid #00FFD0; border-radius:12px; background:#1a1a2e;">
-      <h3>👕 <span style="color:#00FFD0;">RC Racing Apparel</span></h3>
+      <h3>prjt <span style="color:#00FFD0;">all my project</span></h3>
       <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80%" alt="RC Racing Apparel"/>
-      <p>Founder of high-performance motorsport e-commerce</p>
+      <p>i make a lot of website dinamique and statique</p>
       <a href="#"><img src="https://img.shields.io/badge/-WARP%20TO%20PROJECT-00FFF0?style=for-the-badge" alt="Visit"/></a>
     </td>
     <td width="50%" align="center" style="border:2px solid #F75C7E; border-radius:12px; background:#232946;">
@@ -92,7 +89,7 @@ $ fun_fact
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.instagram.com/youssef._.bhl" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo"  />
   </a>
 </div>
 
@@ -107,6 +104,9 @@ $ fun_fact
 ---
 
 <!-- 🎥 Matrix Effect Footer -->
+<div align="center">
+  <img src="hh.jpg" width="30%" alt="Animated introduction banner"/>
+</div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/matrix.gif" width="100%" alt="Matrix animation"/>
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
