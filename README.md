@@ -14,8 +14,8 @@
 - 💻 I’m a **full-stack web developer** with a strong focus on clean code & creative UI/UX.
 - 🚀 I build digital experiences and tools that are fast, elegant, and user-focused.
 - 🧠 I love learning new technologies and optimizing workflows.
-- 📫 How to reach me: **youssef.bahloul.dev@gmail.com**
-- 📄 Know more about me on [LinkedIn](https://www.linkedin.com/in/youssef-bahloul)
+- 📫 How to reach me: [youssef mail](youbahyt@gmail.com)
+- 📄 Know more about me on [LinkedIn](https://www.linkedin.com/in/youssef-bahloul-a81578350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - ✨ Fun Fact: **I debug faster than I run 🐛💨**
 
 <h2 align="center">My Ventures & Projects 💼</h2>
@@ -28,16 +28,16 @@
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 
 <div align="center">
-    <a href="https://x.com/yb__dev" target="_blank">
+    <a href="https://x.com/youssef__bh" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
     </a>
-    <a href="https://linkedin.com/in/youssef-bahloul" target="_blank">
+    <a href="https://www.linkedin.com/in/youssef-bahloul-a81578350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
-    <a href="https://discord.gg/ybdev" target="_blank">
+    <a href="https://discord.gg/youssef._.bhl" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
     </a>
-    <a href="https://www.instagram.com/yb.dev/" target="_blank">
+    <a href="https://www.instagram.com/youssef._.bhl?igsh=cWRncnBsNG5veXh4" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
 </div>
