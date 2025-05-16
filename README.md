@@ -50,7 +50,7 @@ $ fun_fact
   <tr>
     <td width="50%" align="center" style="border:2px solid #00FFD0; border-radius:12px; background:#1a1a2e;">
       <h3>prjt <span style="color:#00FFD0;">all my project</span></h3>
-      <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80%" alt="RC Racing Apparel"/>
+      <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="50%" alt="RC Racing Apparel"/>
       <p>i make a lot of website dinamique and statique</p>
       <a href="#"><img src="https://img.shields.io/badge/-WARP%20TO%20PROJECT-00FFF0?style=for-the-badge" alt="Visit"/></a>
     </td>
