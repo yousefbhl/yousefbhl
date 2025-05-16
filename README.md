@@ -67,8 +67,8 @@ $ fun_fact
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefbahloul&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefbahloul&theme=tokyonight" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefbahloul&show_icons=true&theme=tokyonight" alt="GitHub stats" width="45%"/ >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefbahloul&theme=tokyonight" alt="GitHub streak" width="48%"/>
 </div>
 
 ---
