@@ -3,11 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Youssef Bahloul 
   
-  
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=28&duration=3000&pause=1000&color=00FFD0&center=true&vCenter=true&width=700&lines=Welcome+to+Youssef's+Cyber+Lab!;Full-Stack+Alchemy+%F0%9F%94%A5;UI%2FUX+Pixel+Sorcery+%F0%9F%8E%A8;Code+%E2%9C%A8+Creativity+%E2%9C%A8+Coffee" alt="Cyber Welcome Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=28&duration=3000&pause=1000&color=00FFD0&center=true&vCenter=true&width=700&lines=Welcome+to+Youssef's+Cyber+Lab!;Full-Stack+dev;UI%2FUX+Pixel+Sorcery+%F0%9F%8E%A8;Code+Creativity+Coffee" alt="Cyber Welcome Banner"/>
 </div>
 
 <h3 align="center">I'm a passionate Web Developer & Tech Explorer from Morocco 🇲🇦</h3>
@@ -17,8 +16,6 @@
   <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/youssefbahloul?style=social"> 
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/youssefbahloul?style=social">
 </div>
-
----
 
 ## 🖥️ About Me (Terminal Style)
 ```shell
@@ -37,42 +34,16 @@ $ fun_fact
 - 🧠 I love learning new technologies and optimizing workflows
 - ✨ Fun Fact: **I debug faster than I run 🐛💨**
 
----
-
 ## 🛠️ Tech Arsenal
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,nodejs,git,linux,figma&theme=dark" height="48"/>
 </p>
-
----
-
-## 🚀 Galactic Projects
-<table>
-  <tr>
-    <td width="50%" align="center" style="border:2px solid #00FFD0; border-radius:12px; background:#1a1a2e;">
-      <h3>prjt <span style="color:#00FFD0;">all my project</span></h3>
-      <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="50%" alt="RC Racing Apparel"/>
-      <p>i make a lot of website dinamique and statique</p>
-      <a href="#"><img src="https://img.shields.io/badge/-WARP%20TO%20PROJECT-00FFF0?style=for-the-badge" alt="Visit"/></a>
-    </td>
-    <td width="50%" align="center" style="border:2px solid #F75C7E; border-radius:12px; background:#232946;">
-      <h3>🌌 <span style="color:#F75C7E;">Project X Wormhole</span></h3>
-      <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80%" alt="Secret Project"/>
-      <p>Coming soon... stay tuned! 👀</p>
-      <a href="https://github.com/yousefbhl?tab=repositories"><img src="https://img.shields.io/badge/-CLASSIFIED-F75C7E?style=for-the-badge" alt="Classified"/></a>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=youssefbahloul&show_icons=true&theme=tokyonight" alt="GitHub stats" width="45%"/ >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefbahloul&theme=tokyonight" alt="GitHub streak" width="48%"/>
 </div>
-
----
 
 ## 🌍 Connect with Me
 
@@ -94,8 +65,6 @@ $ fun_fact
   </a>
 </div>
 
-
----
  ## 🎧 Now Playing
  
  <p align="center">
@@ -103,14 +72,11 @@ $ fun_fact
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r55224ahgijfvvtq4hru4ginum&cover_image=true&theme=apple&show_offline=false&background_color=878787&interchange=false&profanity=false&mode=dark">
   </a>
 </p>
-
 <!-- 🎥 Matrix Effect Footer -->
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/matrix.gif" width="100%" alt="Matrix animation"/>
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </div>
-
 <h3 align="center">
   <span style="color:#00FFD0;">"Not just coding... I'm orchestrating digital symphonies 🎶"</span>
 </h3>
