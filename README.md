@@ -1,9 +1,9 @@
 <!-- 🌌 3D Cyber Banner -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Youssef Bahloul 1
+  Youssef Bahloul 
   
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
 </h1>
 
 <div align="center">
@@ -96,18 +96,16 @@ $ fun_fact
 
 
 ---
-
-## 🎧 Now Playing
-<div align="center">
-  <img src="https://readme-jukebox.vercel.app/api/now-playing?track=3AhXZa8sUQht0UEdBJgpGc&theme=retro" width="350" alt="Now Playing"/>
-</div>
-
----
+ ## 🎧 Now Playing
+ 
+ <p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31r55224ahgijfvvtq4hru4ginum&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r55224ahgijfvvtq4hru4ginum&cover_image=true&theme=apple&show_offline=false&background_color=878787&interchange=false&profanity=false&mode=dark">
+  </a>
+</p>
 
 <!-- 🎥 Matrix Effect Footer -->
-<div align="center">
-  <img src="hh.jpg" width="30%" alt="Animated introduction banner"/>
-</div>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/matrix.gif" width="100%" alt="Matrix animation"/>
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
