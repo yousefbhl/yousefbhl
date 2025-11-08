@@ -36,7 +36,7 @@ $ fun_fact
 
 ## 🛠️ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,nodejs,git,linux,figma&theme=dark" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,react,php,laravel,mysql,nodejs,git,linux,vscode,figma,wordpress&theme=dark" height="48"/>
 </p>
 
 ## 📊 GitHub Stats
